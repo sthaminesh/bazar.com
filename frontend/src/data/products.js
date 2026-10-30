@@ -1,0 +1,58 @@
+const products = [
+  {
+    id: 1,
+    name: "Samsung Galaxy A36",
+    price: 35000,
+    category: "Electronics",
+    location: "Kathmandu",
+    condition: "New",
+    image: "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=600",
+  },
+  {
+    id: 2,
+    name: "MacBook Laptop",
+    price: 85000,
+    category: "Electronics",
+    location: "Lalitpur",
+    condition: "Used",
+    image: "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600",
+  },
+  {
+    id: 3,
+    name: "Modern Sofa",
+    price: 25000,
+    category: "Furniture",
+    location: "Bhaktapur",
+    condition: "New",
+    image: "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?w=600",
+  },
+  {
+    id: 4,
+    name: "Men's Sneakers",
+    price: 3500,
+    category: "Fashion",
+    location: "Kathmandu",
+    condition: "New",
+    image: "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=600",
+  },
+  {
+    id: 5,
+    name: "Digital Camera",
+    price: 45000,
+    category: "Electronics",
+    location: "Pokhara",
+    condition: "Used",
+    image: "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600",
+  },
+  {
+    id: 6,
+    name: "Wooden Dining Table",
+    price: 18000,
+    category: "Furniture",
+    location: "Kathmandu",
+    condition: "New",
+    image: "https://images.unsplash.com/photo-1617806118233-18e1de247200?w=600",
+  },
+];
+
+export default products;
